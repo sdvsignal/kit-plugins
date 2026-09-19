@@ -1,12 +1,13 @@
 # kit-plugins
 
-Three small Claude Code plugins from [Kit](https://kit-sdvsignal.pages.dev). Plain markdown and JSON, no telemetry, no secrets. Read any of them in two minutes.
+Four small Claude Code plugins from [Kit](https://kit-sdvsignal.pages.dev). Plain markdown and JSON, no telemetry, no secrets. Read any of them in two minutes.
 
 | Plugin | Command | What it does |
 |---|---|---|
 | [kit-ship-check](plugins/kit-ship-check) | `/kit-ship-check:run` | Runs test + lint + type check, prints PASS/FAIL. Can't-run = FAIL. |
 | [kit-explain-diff](plugins/kit-explain-diff) | `/kit-explain-diff:run` | Plain-English diff review with risky `file:line`s. |
 | [kit-new-feature](plugins/kit-new-feature) | `/kit-new-feature:run` | 5-line plan → your yes → build → test → ship check. |
+| [kit-storekit-check](plugins/kit-storekit-check) | `/kit-storekit-check:run` | Six offline StoreKit / Xcode pre-flight file checks for iOS subscription apps. |
 
 ## Install
 

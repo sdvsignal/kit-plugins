@@ -1,10 +1,32 @@
 {
   "name": "kit-plugins",
-  "owner": { "name": "SDV Signal", "url": "https://kit-sdvsignal.pages.dev" },
-  "metadata": { "description": "Small, plain-text Claude Code plugins from Kit: a pre-merge ship check, a plain-English diff review, and a plan-first feature flow." },
+  "owner": {
+    "name": "SDV Signal",
+    "url": "https://kit-sdvsignal.pages.dev"
+  },
+  "metadata": {
+    "description": "Small, plain-text Claude Code plugins from Kit: a pre-merge ship check, a plain-English diff review, and a plan-first feature flow."
+  },
   "plugins": [
-    { "name": "kit-ship-check", "source": "./plugins/kit-ship-check", "description": "Pre-commit gate: runs test, lint and type check and prints a PASS/FAIL table. Anything that couldn't run counts as FAIL." },
-    { "name": "kit-explain-diff", "source": "./plugins/kit-explain-diff", "description": "Plain-English read of your git diff with risky lines flagged as file:line." },
-    { "name": "kit-new-feature", "source": "./plugins/kit-new-feature", "description": "Plan in 5 lines, wait for a yes, build in small steps, finish with a ship check. Formats edited files if your formatter is installed." }
+    {
+      "name": "kit-ship-check",
+      "source": "./plugins/kit-ship-check",
+      "description": "Pre-commit gate: runs test, lint and type check and prints a PASS/FAIL table. Anything that couldn't run counts as FAIL."
+    },
+    {
+      "name": "kit-explain-diff",
+      "source": "./plugins/kit-explain-diff",
+      "description": "Plain-English read of your git diff with risky lines flagged as file:line."
+    },
+    {
+      "name": "kit-new-feature",
+      "source": "./plugins/kit-new-feature",
+      "description": "Plan in 5 lines, wait for a yes, build in small steps, finish with a ship check. Formats edited files if your formatter is installed."
+    },
+    {
+      "name": "kit-storekit-check",
+      "source": "./plugins/kit-storekit-check",
+      "description": "Six offline StoreKit / Xcode pre-flight file checks: bundled .storekit, distantFuture expiry, product ID drift, local-only intro offers, export-compliance key, prices in metadata text."
+    }
   ]
 }

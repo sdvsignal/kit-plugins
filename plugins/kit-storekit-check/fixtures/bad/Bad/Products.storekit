@@ -1,0 +1,10 @@
+{
+  "subscriptionGroups": [{
+    "name": "Pro",
+    "subscriptions": [{
+      "productID": "com.example.bad.pro.yearly",
+      "recurringSubscriptionPeriod": "P1Y",
+      "introductoryOffer": { "paymentMode": "free", "subscriptionPeriod": "P1W" }
+    }]
+  }]
+}
