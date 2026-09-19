@@ -1,0 +1,9 @@
+{
+  "name": "kit-ship-check",
+  "version": "0.1.0",
+  "description": "Pre-commit gate: test, lint and type check with a PASS/FAIL table.",
+  "author": { "name": "SDV Signal", "url": "https://kit-sdvsignal.pages.dev" },
+  "homepage": "https://github.com/sdvsignal/kit-plugins",
+  "repository": "https://github.com/sdvsignal/kit-plugins",
+  "license": "MIT"
+}

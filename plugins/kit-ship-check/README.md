@@ -1,0 +1,24 @@
+# kit-ship-check
+
+A pre-commit gate for Claude Code. `/kit-ship-check:run` reads your test, lint and type-check commands from `CLAUDE.md` (or `package.json` / `Makefile` / `pyproject.toml`), runs each one, and prints a table:
+
+| Step | Result | Detail |
+|---|---|---|
+| test | PASS | 42 passed |
+| lint | FAIL | 3 errors in src/api.ts |
+| typecheck | FAIL | no command found |
+
+A step that couldn't run is **FAIL**, never silently skipped. It doesn't fix anything unless you ask.
+
+It also adds a `Stop` hook that prints a one-line reminder to run the check before you commit.
+
+```
+/plugin marketplace add sdvsignal/kit-plugins
+/plugin install kit-ship-check@kit-plugins
+```
+
+---
+
+**Want this tuned to your repo?** Fixed-price setup from Kit: **Setup Sprint $99** (48h) · **Build Packet $399** (custom MCP server or Cloudflare Worker, 5 business days). Order and scope: [kit-sdvsignal.pages.dev](https://kit-sdvsignal.pages.dev)
+
+We use AI tools including Claude; a person reviews every deliverable before it ships.

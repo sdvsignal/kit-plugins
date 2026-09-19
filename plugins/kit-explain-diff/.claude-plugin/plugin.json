@@ -1,0 +1,9 @@
+{
+  "name": "kit-explain-diff",
+  "version": "0.1.0",
+  "description": "Plain-English review of the current git diff with risky lines flagged.",
+  "author": { "name": "SDV Signal", "url": "https://kit-sdvsignal.pages.dev" },
+  "homepage": "https://github.com/sdvsignal/kit-plugins",
+  "repository": "https://github.com/sdvsignal/kit-plugins",
+  "license": "MIT"
+}

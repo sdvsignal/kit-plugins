@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [{ "type": "command", "command": "echo 'Reminder: run /kit-ship-check:run before you commit.'" }] }
+    ]
+  }
+}
