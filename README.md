@@ -1,6 +1,6 @@
 # kit-plugins
 
-Four small Claude Code plugins from [Kit](https://kit-sdvsignal.pages.dev). Plain markdown and JSON, no telemetry, no secrets. Read any of them in two minutes.
+Four small Claude Code plugins from [Kit](https://kit.sdvsignal.com/?utm_source=github&utm_medium=organic&utm_campaign=afm-find&utm_content=kit-plugins). Plain markdown and JSON, no telemetry, no secrets. Read any of them in two minutes.
 
 Looking for a Claude Code plugin example, a Claude Code marketplace you can add in one line, or a StoreKit
 pre-flight check to run before an App Store build? That is what these four are.
@@ -35,7 +35,7 @@ Want the whole setup (CLAUDE.md, allowlist, hooks, MCP example) instead of plugi
 
 ---
 
-**Want this tuned to your repo?** Fixed-price setup from Kit: **Setup Lite $29** (a CLAUDE.md, a tool allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (48h) · **MCP Basic $199** (one custom MCP tool, schema and handoff notes) · **Build Packet $399** (custom MCP server or Cloudflare Worker, 5 business days). Order and scope: [kit-sdvsignal.pages.dev](https://kit-sdvsignal.pages.dev)
+**Want this tuned to your repo?** Fixed-price setup from Kit: **Setup Lite $29** (a CLAUDE.md, a tool allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (48h) · **MCP Basic $199** (one custom MCP tool, schema and handoff notes) · **Build Packet $399** (custom MCP server or Cloudflare Worker, 5 business days). Order and scope: [kit.sdvsignal.com](https://kit.sdvsignal.com/?utm_source=github&utm_medium=organic&utm_campaign=afm-find&utm_content=kit-plugins)
 
 Shipping to the App Store? `kit-storekit-check` covers the StoreKit side of a submission; the **ASO Launch Pack $19** covers the metadata side (keyword map, subtitle and description templates, screenshot storyboard, App Store Connect paste checklist). Same page. Need the preview video itself? **Preview Pack $149**: one App Store preview to Apple's spec from your
 screen recordings, 5 stills, 2 revision rounds, 72 hours.

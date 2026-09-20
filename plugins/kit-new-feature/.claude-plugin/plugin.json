@@ -2,7 +2,7 @@
   "name": "kit-new-feature",
   "version": "0.1.0",
   "description": "Plan-first feature flow: 5-line plan, wait for yes, build, test, ship check.",
-  "author": { "name": "SDV Signal", "url": "https://kit-sdvsignal.pages.dev" },
+  "author": { "name": "SDV Signal", "url": "https://kit.sdvsignal.com" },
   "homepage": "https://github.com/sdvsignal/kit-plugins",
   "repository": "https://github.com/sdvsignal/kit-plugins",
   "license": "MIT"

@@ -2,7 +2,7 @@
   "name": "kit-plugins",
   "owner": {
     "name": "SDV Signal",
-    "url": "https://kit-sdvsignal.pages.dev"
+    "url": "https://kit.sdvsignal.com"
   },
   "metadata": {
     "description": "Small, plain-text Claude Code plugins from Kit: a pre-merge ship check, a plain-English diff review, and a plan-first feature flow."
