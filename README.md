@@ -24,7 +24,7 @@ Want the whole setup (CLAUDE.md, allowlist, hooks, MCP example) instead of plugi
 
 ---
 
-**Want this tuned to your repo?** Fixed-price setup from Kit: **Setup Lite $29** (a CLAUDE.md, a tool allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (48h) · **Build Packet $399** (custom MCP server or Cloudflare Worker, 5 business days). Order and scope: [kit-sdvsignal.pages.dev](https://kit-sdvsignal.pages.dev)
+**Want this tuned to your repo?** Fixed-price setup from Kit: **Setup Lite $29** (a CLAUDE.md, a tool allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (48h) · **MCP Basic $199** (one custom MCP tool, schema and handoff notes) · **Build Packet $399** (custom MCP server or Cloudflare Worker, 5 business days). Order and scope: [kit-sdvsignal.pages.dev](https://kit-sdvsignal.pages.dev)
 
 Shipping to the App Store? `kit-storekit-check` covers the StoreKit side of a submission; the **ASO Launch Pack $19** covers the metadata side (keyword map, subtitle and description templates, screenshot storyboard, App Store Connect paste checklist). Same page.
 
