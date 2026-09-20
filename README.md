@@ -23,6 +23,14 @@ In Claude Code:
 
 Or from a shell: `claude plugin marketplace add sdvsignal/kit-plugins && claude plugin install kit-ship-check@kit-plugins`.
 
+In Cursor, install straight from this repo:
+
+```
+github:sdvsignal/kit-plugins
+```
+
+Every plugin here carries both a `.cursor-plugin/plugin.json` and a `.claude-plugin/plugin.json`, so the same directory loads in either client. The skills are identical; the hooks in `kit-ship-check` and `kit-new-feature` are Claude Code hooks and only run there.
+
 Want the whole setup (CLAUDE.md, allowlist, hooks, MCP example) instead of plugins? See [kit-claude-code-starter](https://github.com/sdvsignal/kit-claude-code-starter).
 
 ---

@@ -1,0 +1,27 @@
+{
+  "name": "kit-explain-diff",
+  "displayName": "Kit Explain Diff",
+  "version": "0.1.0",
+  "description": "Plain-English read of your current git diff, with the risky lines called out as file:line so you know what to look at before you push.",
+  "author": {
+    "name": "SDV Signal",
+    "email": "support@sdvsignal.com"
+  },
+  "publisher": "SDV Signal",
+  "homepage": "https://kit-sdvsignal.pages.dev",
+  "repository": "https://github.com/sdvsignal/kit-plugins",
+  "license": "MIT",
+  "keywords": [
+    "diff",
+    "code-review",
+    "git",
+    "explain"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "review",
+    "git",
+    "quality"
+  ],
+  "skills": "./skills/"
+}

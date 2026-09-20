@@ -1,0 +1,27 @@
+{
+  "name": "kit-new-feature",
+  "displayName": "Kit New Feature",
+  "version": "0.1.0",
+  "description": "Plan-first feature flow: a 5-line plan, wait for your yes, build in small steps, finish with a ship check.",
+  "author": {
+    "name": "SDV Signal",
+    "email": "support@sdvsignal.com"
+  },
+  "publisher": "SDV Signal",
+  "homepage": "https://kit-sdvsignal.pages.dev",
+  "repository": "https://github.com/sdvsignal/kit-plugins",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "feature",
+    "workflow",
+    "plan-first"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "workflow",
+    "planning",
+    "quality"
+  ],
+  "skills": "./skills/"
+}

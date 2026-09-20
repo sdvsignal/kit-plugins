@@ -1,0 +1,28 @@
+{
+  "name": "kit-ship-check",
+  "displayName": "Kit Ship Check",
+  "version": "0.1.0",
+  "description": "Pre-commit gate: runs test, lint and type check and prints a PASS/FAIL table. A step that could not run is FAIL, never skipped silently.",
+  "author": {
+    "name": "SDV Signal",
+    "email": "support@sdvsignal.com"
+  },
+  "publisher": "SDV Signal",
+  "homepage": "https://kit-sdvsignal.pages.dev",
+  "repository": "https://github.com/sdvsignal/kit-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ship-check",
+    "pre-commit",
+    "tests",
+    "lint",
+    "typecheck"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "quality",
+    "ci",
+    "review"
+  ],
+  "skills": "./skills/"
+}
