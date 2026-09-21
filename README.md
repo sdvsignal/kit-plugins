@@ -16,6 +16,14 @@ Plain markdown and JSON. No telemetry, no secrets, no network calls. Read any of
 Looking for a Claude Code plugin example, a Claude Code marketplace you can add in one line, or a StoreKit
 pre-flight check to run before an App Store build? That is what these four are.
 
+## Want the full setup done for you?
+
+These plugins are free. If you want CLAUDE.md + allowlist + a skill wired for *your* repo:
+
+**[Buy Setup Lite — $29](https://buy.stripe.com/3cI14pcsf6DA8Xw4B3f3a0a)** · ~24h, handed back as a PR.
+
+Details: [kit.sdvsignal.com/#setup-lite](https://kit.sdvsignal.com/#setup-lite)
+
 ## 60-second start
 
 In Claude Code:
