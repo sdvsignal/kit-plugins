@@ -67,7 +67,7 @@ screenshot storyboard, App Store Connect paste checklist). Need the preview vide
 **Preview Pack $149**: one App Store preview to Apple's spec from your screen recordings, 5 stills,
 2 revision rounds, 72 hours.
 
-**→ Scope and order: [kit.sdvsignal.com](https://kit.sdvsignal.com/?utm_source=github&utm_medium=organic&utm_campaign=afm-find&utm_content=kit-plugins)**
+**→ Scope and order: [kit.sdvsignal.com](https://kit.sdvsignal.com/?utm_source=github&utm_medium=organic&utm_campaign=afm-find&utm_content=gh-readme-kit-plugins)**
 
 We use AI tools including Claude; a person reviews every deliverable before it ships.
 Independent project, not affiliated with Anthropic, Cursor or Apple.
