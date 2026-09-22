@@ -80,6 +80,17 @@ screenshot storyboard, App Store Connect paste checklist). Need the preview vide
 We use AI tools including Claude; a person reviews every deliverable before it ships.
 Independent project, not affiliated with Anthropic, Cursor or Apple.
 
+## Questions
+
+Plugin not loading, or want one of these adapted to your stack? Ask in
+[Discussions](https://github.com/sdvsignal/kit-plugins/discussions/1). Real answers, no signup.
+
+## Related
+
+- [kit-claude-code-starter](https://github.com/sdvsignal/kit-claude-code-starter) — the full Claude Code setup (CLAUDE.md, allowlist, 3 skills), free
+- [kit-one-tool-mcp](https://github.com/sdvsignal/kit-one-tool-mcp) — a working one-tool MCP server sample, 15 tests, no API key
+- [kit-ios-worker-template](https://github.com/sdvsignal/kit-ios-worker-template) — StoreKit 2 verification on a Cloudflare Worker, with failure logging
+
 ## License
 
 MIT
