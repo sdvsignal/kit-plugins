@@ -3,6 +3,7 @@
   "displayName": "Kit Ship Check",
   "version": "0.1.0",
   "description": "Pre-commit gate: runs test, lint and type check and prints a PASS/FAIL table. A step that could not run is FAIL, never skipped silently.",
+  "logo": "assets/logo.svg",
   "author": {
     "name": "SDV Signal",
     "email": "support@sdvsignal.com"

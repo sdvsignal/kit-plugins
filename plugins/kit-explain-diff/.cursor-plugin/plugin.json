@@ -3,6 +3,7 @@
   "displayName": "Kit Explain Diff",
   "version": "0.1.0",
   "description": "Plain-English read of your current git diff, with the risky lines called out as file:line so you know what to look at before you push.",
+  "logo": "assets/logo.svg",
   "author": {
     "name": "SDV Signal",
     "email": "support@sdvsignal.com"

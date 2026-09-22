@@ -3,6 +3,7 @@
   "displayName": "Kit New Feature",
   "version": "0.1.0",
   "description": "Plan-first feature flow: a 5-line plan, wait for your yes, build in small steps, finish with a ship check.",
+  "logo": "assets/logo.svg",
   "author": {
     "name": "SDV Signal",
     "email": "support@sdvsignal.com"

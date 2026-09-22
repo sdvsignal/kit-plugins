@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Kit Explain Diff">
+  <rect width="128" height="128" rx="28" fill="#1f5f4a"/>
+  <g stroke="#fbfaf7" stroke-width="9" stroke-linecap="round">
+    <path d="M30 44 H74" opacity=".45"/>
+    <path d="M30 64 H92"/>
+    <path d="M30 84 H60" opacity=".45"/>
+  </g>
+  <g fill="#fbfaf7">
+    <rect x="86" y="38" width="22" height="7" rx="3.5"/>
+    <rect x="93.5" y="30.5" width="7" height="22" rx="3.5"/>
+    <rect x="86" y="83" width="22" height="7" rx="3.5"/>
+  </g>
+</svg>

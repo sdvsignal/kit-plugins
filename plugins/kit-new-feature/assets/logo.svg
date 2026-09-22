@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Kit New Feature">
+  <rect width="128" height="128" rx="28" fill="#1f5f4a"/>
+  <g fill="none" stroke="#fbfaf7" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 96 H50 V76 H70 V56 H90" opacity=".45"/>
+    <path d="M90 56 V26"/>
+    <path d="M90 30 L112 38 L90 46" fill="#fbfaf7"/>
+  </g>
+</svg>

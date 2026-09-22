@@ -3,6 +3,7 @@
   "displayName": "Kit StoreKit Check",
   "version": "0.1.0",
   "description": "Six offline StoreKit and Xcode pre-flight file checks for iOS subscription apps: bundled .storekit, distantFuture expiry, product ID drift, local-only intro offers, export-compliance key, prices in metadata text.",
+  "logo": "assets/logo.svg",
   "author": {
     "name": "SDV Signal",
     "email": "support@sdvsignal.com"
