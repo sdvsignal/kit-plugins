@@ -64,10 +64,18 @@ If you want the full setup rather than four plugins — project memory, a permis
 and MCP wiring, tuned to your repo — start with
 [kit-claude-code-starter](https://github.com/sdvsignal/kit-claude-code-starter), which is also free.
 
-Paid is only ever the tuning: **Setup Lite $29** (a CLAUDE.md, a tool allowlist and one skill for
-your repo, back as a PR in 24h) · **Setup Sprint $99** (the full setup, 48h) · **MCP Basic $199**
-(one custom MCP tool, schema and handoff notes) · **Build Packet $399** (custom MCP server or
-Cloudflare Worker, 5 business days).
+Want more of *this* — skills and hooks to drop in, not a service with a turnaround? The
+**[Skills & Hooks Pack $29](https://buy.stripe.com/28E28tbob7HE8Xw4B3f3a0b?client_reference_id=from-gh-plugins)**
+is 10 skills and 8 hooks for `.claude/`, instant download, 78 offline tests. These four plugins are
+the free slice of the same idea; the pack is the set, and six of its hooks **block** rather than warn
+— a live credential in a write, a commit onto `main`, `rm -rf` at a root, `git clean -fd`, a `.env`
+read into the transcript, and the flags that make a test run report success whatever happens.
+[Two of its files are published in full](https://kit.sdvsignal.com/samples/skills-hooks) before you pay.
+
+Paid services, where a person tunes it to your repo: **Setup Lite $29** (a CLAUDE.md, a tool
+allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (the full setup,
+48h) · **MCP Basic $199** (one custom MCP tool, schema and handoff notes) · **Build Packet $399**
+(custom MCP server or Cloudflare Worker, 5 business days).
 
 Shipping to the App Store? `kit-storekit-check` covers the StoreKit side of a submission; the
 **ASO Launch Pack $19** covers the metadata side (keyword map, subtitle and description templates,
