@@ -20,7 +20,7 @@ pre-flight check to run before an App Store build? That is what these four are.
 
 These plugins are free. If you want CLAUDE.md + allowlist + a skill wired for *your* repo:
 
-**[Buy Setup Lite — $29](https://buy.stripe.com/3cI14pcsf6DA8Xw4B3f3a0a)** · ~24h, handed back as a PR.
+**[Buy Setup Lite — $29](https://buy.stripe.com/3cI14pcsf6DA8Xw4B3f3a0a?client_reference_id=from-gh-plugins)** · ~24h, handed back as a PR.
 
 Details: [kit.sdvsignal.com/#setup-lite](https://kit.sdvsignal.com/#setup-lite)
 
