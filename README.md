@@ -72,7 +72,7 @@ and MCP wiring, tuned to your repo — start with
 
 Want more of *this* — skills and hooks to drop in, not a service with a turnaround? The
 **[Skills & Hooks Pack $29](https://buy.stripe.com/28E28tbob7HE8Xw4B3f3a0b?client_reference_id=from-gh-plugins)**
-is 10 skills and 8 hooks for `.claude/`, instant download, 78 offline tests. These four plugins are
+is 10 skills and 8 hooks for `.claude/`, instant download, 134 offline tests. These four plugins are
 the free slice of the same idea; the pack is the set, and six of its hooks **block** rather than warn
 — a live credential in a write, a commit onto `main`, `rm -rf` at a root, `git clean -fd`, a `.env`
 read into the transcript, and the flags that make a test run report success whatever happens.
