@@ -1,5 +1,7 @@
 # kit-plugins
 
+![license MIT](https://img.shields.io/badge/license-MIT-3da639) ![plugins 4](https://img.shields.io/badge/plugins-4-3da639) ![dependencies none](https://img.shields.io/badge/dependencies-none-3da639) [![more skills and hooks $29](https://img.shields.io/badge/more%20skills%20and%20hooks-$29-1f5f4a)](https://buy.stripe.com/28E28tbob7HE8Xw4B3f3a0b?client_reference_id=from-gh-badge-plugins)
+
 **Four things you end up re-typing to Claude Code every day, turned into slash commands.** "Run the
 tests and tell me if I can ship." "Explain this diff and flag anything risky." "Plan it before you
 build it." "Check my StoreKit setup before I waste an App Store review."
