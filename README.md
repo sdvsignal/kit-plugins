@@ -24,7 +24,7 @@ These plugins are free. If you want CLAUDE.md + allowlist + a skill wired for *y
 
 **[Buy Setup Lite — $29](https://buy.stripe.com/3cI14pcsf6DA8Xw4B3f3a0a?client_reference_id=from-gh-plugins)** · ~24h, handed back as a PR.
 
-Details: [kit.sdvsignal.com/#setup-lite](https://kit.sdvsignal.com/#setup-lite)
+Details: [kit.sdvsignal.com/#setup-lite](https://kit.sdvsignal.com/?utm_source=github&utm_medium=readme&utm_campaign=setup-lite&utm_content=kit-plugins#setup-lite)
 
 ## 60-second start
 
@@ -50,6 +50,10 @@ In Cursor, install straight from this repo:
 github:sdvsignal/kit-plugins
 ```
 
+Would rather take a zip than add a marketplace? Every release ships the tracked tree as one archive:
+[latest release](https://github.com/sdvsignal/kit-plugins/releases/latest). Unzip it and the four
+plugin folders are the same files you see here.
+
 Every plugin here carries both a `.cursor-plugin/plugin.json` and a `.claude-plugin/plugin.json`, so the same directory loads in either client. The skills are identical; the hooks in `kit-ship-check` and `kit-new-feature` are Claude Code hooks and only run there.
 
 ## Why `ship-check` fails loudly
@@ -72,7 +76,7 @@ is 10 skills and 8 hooks for `.claude/`, instant download, 78 offline tests. The
 the free slice of the same idea; the pack is the set, and six of its hooks **block** rather than warn
 — a live credential in a write, a commit onto `main`, `rm -rf` at a root, `git clean -fd`, a `.env`
 read into the transcript, and the flags that make a test run report success whatever happens.
-[Two of its files are published in full](https://kit.sdvsignal.com/samples/skills-hooks) before you pay.
+[Two of its files are published in full](https://kit.sdvsignal.com/samples/skills-hooks?utm_source=github&utm_medium=readme&utm_campaign=skills-hooks&utm_content=kit-plugins) before you pay.
 
 Paid services, where a person tunes it to your repo: **Setup Lite $29** (a CLAUDE.md, a tool
 allowlist and one skill for your repo, back as a PR in 24h) · **Setup Sprint $99** (the full setup,
